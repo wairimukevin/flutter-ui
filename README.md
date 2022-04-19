@@ -1,2 +1,2 @@
-# flutter-ui
-flutter intel inter 
+# flutter-ui 
+Basic flutter application containing 4 screens : info,design,responce and dictionaty. The intial scrren(Infopage) cointain an animated side menu bar and a basic user form that captures username,email,phone number and a submit button that auto navigated to design screen(slide animated screen transition) which contain a user card. The responce screen load data from an api and display the data on a card while the dictionary screen takes input from user i.e a number in words and the respective number value stores them into a map(dictionary)and has a arrow button that when clicked sorts the dictionary in asscending order or descending order
